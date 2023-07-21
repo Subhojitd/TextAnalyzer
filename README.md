@@ -1,3 +1,7 @@
+#The live link for the above app is:
+https://text-counterr.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
